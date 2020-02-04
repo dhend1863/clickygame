@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name":  "Frank Clark",
+        "image": "./assets/images/frank_clark.jpg",
+        "occupation": "Defensive End"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Patrick Mahomes",
+        "image": "./assets/images/patrick_mahomes.jpg",
+        "occupation": "QB, MVP"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Andy Reid",
+        "image": "./assets/images/andy_reid.jpg",
+        "occupation": "Big Red"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Tyreek Hill",
+        "image": "./assets/images/tyreek_hill.jpg",
+        "occupation": "WR, Cheetah"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Travis Kelce",
+        "image": "./assets/images/travis_kelce.jpg",
+        "occupation": "TE"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Damien Williams",
+        "image": "./assets/images/damien_williams.jpg",
+        "occupation": "Running Back"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Tyrann Mathieu",
+        "image": "./assets/images/tyrann_mathieu.jpg",
+        "occupation": "Honeybadger"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Harrison Butker",
+        "image": "./assets/images/harrison_butker.jpg",
+        "occupation": "Kicker"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Anthony Sherman",
+        "image": "./assets/images/anthony_sherman.jpg",
+        "occupation": "Fullback"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Chris Jones",
+        "image": "./assets/images/chris_jones.jpg",
+        "occupation": "DT"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "KC Wolf",
+        "image": "./assets/images/kc_wolf.jpg",
+        "occupation": "Wolf"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Clark Hunt",
+        "image": "./assets/images/clark_hunt.jpg",
+        "occupation": "Owner"
+      }
+      
+]
